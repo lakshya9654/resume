@@ -1,0 +1,37 @@
+h1{
+    color: #d12c2c;
+    font-size: 2.5em;
+    text-align: center;
+    text-shadow: 3px 3px 5px #ceb110;
+}
+
+p{
+    color: #555;
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin: 20px 0;
+    text-align: center;
+}
+p2{
+    color: #000000;
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin-left: 1030px ;
+    text-align: left;
+}
+p4{
+    color: #000000;
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin-left: 1070px ;
+    margin-top: -20px;
+    text-align: left;
+}
+h2{
+    color: #c7ca19;
+    font-size: 1.8em;
+    text-align: left;
+    background-color: #000000;
+    
+
+}
